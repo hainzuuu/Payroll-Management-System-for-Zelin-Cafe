@@ -30,3 +30,6 @@ This project was developed during my second year of college for the subject *App
 5. Employees can log in and start tracking their work hours.
 6. Admin can manage payroll settings and approve time change requests.
 
+![App Screenshot](images/payroll_employee.png)  
+![App Screenshot](images/payroll_admin.png)  
+
