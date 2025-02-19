@@ -20,7 +20,7 @@ A C#-based payroll management system with separate interfaces for employees and 
 - Add or deduct contributions such as tax, SSS, and PhilHealth
 
 ## About the Project  
-This project was developed during my second year of college for the subject *Application Development and Emerging Technologies*. It applies key concepts such as time tracking, payroll calculations, and user management in a real-world scenario.
+This project was developed in 2022 during my second year of college for the subject *Application Development and Emerging Technologies*. It applies key concepts such as time tracking, payroll calculations, and user management in a real-world scenario.
 
 ## Installation and Usage
 1. Clone this repository to your local machine.
