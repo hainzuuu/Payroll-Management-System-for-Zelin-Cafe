@@ -1,30 +1,15 @@
-# Payroll Management System
+# Mini Coffee Shop Ordering System  
 
-## Overview
-A C#-based payroll management system with separate interfaces for employees and administrators, designed to efficiently track work hours and manage payroll calculations.
+## Overview  
+A simple coffee shop ordering system developed in C# with a user-friendly interface that allows customers to select items, adjust quantities, and view real-time billing.  
 
-## Features
+## Features  
+- **Add and remove quantities** – Adjust item quantities dynamically.  
+- **Live billing computation** – Automatically updates total cost based on selected items.  
+- **Error handling & validation** – Prevents invalid inputs and ensures a smooth experience.  
+- **Receipt generation** – Generates an itemized receipt after checkout.  
 
-### Employee Interface
-- View time-in and time-out history
-- Export attendance history to Excel
-- Automatic calculation of earnings based on hourly rate
-- Request edits to time-in and time-out records (pending admin approval)
+## About the Project  
+This Mini Coffee Shop Ordering System was developed during my second year of college for the subject *Computer Programming 3* using C# and Windows Forms. The project simulates a real-world ordering system, allowing users to add items to their cart, adjust quantities, and see real-time billing updates before confirming their order.  
 
-### Admin Interface
-- Create and manage employee accounts
-- View employee attendance history
-- Receive notifications for late time-ins or late time-outs
-- Edit employee time-in and time-out records with employee authorization
-- Modify hourly pay rate
-- Add or deduct contributions such as tax, SSS, and PhilHealth
-
-### About the Project
-
-This Payroll Management System was developed during my second year of college for the subject Application Development and Emerging Technologies. The project was designed to provide an efficient way to track employee work hours and manage payroll calculations.
-
-
-
-![App Screenshot](images/payroll_employee.png)
-![App Screenshot](images/payroll_admin.png)
-
+![App Screenshot](Resources/Mini-Coffee-Shop-Ordering-System-Screenshot.png)  
