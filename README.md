@@ -1,10 +1,7 @@
-![App Screenshot](images/payroll_employee.png)
-![App Screenshot](images/payroll_admin.png)
-
 # Payroll Management System
 
 ## Overview
-This Payroll Management System was developed as a project during my second year of college in IT. It is built using C# and Visual Studio, providing an efficient way to track employee work hours and manage payroll calculations. The system features two interfaces: one for employees and another for administrators.
+This Payroll Management System was developed as a project during my second year of college for the subject Application Development and Emerging Technologies in IT. Built using C# and Visual Studio, the system provides an efficient way to track employee work hours and manage payroll calculations. It features two interfaces: one for employees and another for administrators.
 
 ## Features
 
@@ -25,4 +22,7 @@ This Payroll Management System was developed as a project during my second year 
 ### About the Project
 
 This Payroll Management System was developed during my second year of college for the subject Application Development and Emerging Technologies. The project was designed to provide an efficient way to track employee work hours and manage payroll calculations.
+
+![App Screenshot](images/payroll_employee.png)
+![App Screenshot](images/payroll_admin.png)
 
