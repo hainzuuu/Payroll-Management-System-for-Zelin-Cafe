@@ -23,6 +23,8 @@ This Payroll Management System was developed as a project during my second year 
 
 This Payroll Management System was developed during my second year of college for the subject Application Development and Emerging Technologies. The project was designed to provide an efficient way to track employee work hours and manage payroll calculations.
 
+
+
 ![App Screenshot](images/payroll_employee.png)
 ![App Screenshot](images/payroll_admin.png)
 
